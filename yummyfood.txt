@@ -3,5 +3,6 @@ Briyani
 Chicken 65
 Pulav
 Prawn gravy
+Pasta
 Mutton gravy
 
