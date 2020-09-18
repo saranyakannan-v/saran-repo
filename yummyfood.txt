@@ -1,8 +1,9 @@
-Tasty and yummy foods are:
+Tasty and yummy foods includes vegetarian dishes
 Briyani
 Chicken 65
 Pulav
 Prawn gravy
+Sambar Rice
 Pasta
 Mutton gravy
 
